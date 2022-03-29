@@ -6,7 +6,7 @@ import (
 	"math/rand"
 	"net"
 
-	pb "example.com/go-usermgmt-grpc/usermgmt"
+	pb "github.com/interactord/go-usermgmt-grpc/usermgmt"
 	"google.golang.org/grpc"
 )
 

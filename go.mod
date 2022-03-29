@@ -1,4 +1,4 @@
-module example.com/go-usermgmt-grpc
+module github.com/interactord/go-usermgmt-grpc
 
 go 1.18
 
