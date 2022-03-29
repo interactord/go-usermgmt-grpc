@@ -1,0 +1,1 @@
+protoc -I=. --java_out=. --kotlin_out=. usermgmt/usermgmt.proto

@@ -1,0 +1,1 @@
+go run usermgmt_server/usermgmt_server.go
